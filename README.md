@@ -1,6 +1,8 @@
 Hi, I'm Bening Kumala Haqi👋
 
     Junior Web Developer
+    
+📫 How to reach me: bkhaqi@gmail.com
 <!--
 **beningkumalahaqi/beningkumalahaqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
