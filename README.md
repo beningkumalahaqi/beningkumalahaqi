@@ -1,6 +1,6 @@
 # Hi, I'm Bening Kumala Haqi👋
 
-   ## Junior Web Developer
+    Junior Web Developer
     
 📫 How to reach me: bkhaqi@gmail.com
 <!--
