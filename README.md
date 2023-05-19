@@ -1,6 +1,6 @@
 # Hi, I'm Bening Kumala Haqi👋
 
-    Junior Full-Stack Web Developer
+    Full-Stack Developer
     
 [![Bening Kumala Haqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=beningkumalahaqi)](https://github.com/anuraghazra/github-readme-stats)
     
