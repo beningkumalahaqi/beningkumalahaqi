@@ -1,6 +1,7 @@
 # Hi, I'm Bening Kumala Haqi👋
 
-    Full-Stack Developer
+    Full-Stack Developer 
+    Computer Science Student at Binus University
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beningkumalahaqi)](https://github.com/anuraghazra/github-readme-stats)
 [![Bening Kumala Haqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=beningkumalahaqi)](https://github.com/anuraghazra/github-readme-stats)
