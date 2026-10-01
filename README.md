@@ -74,13 +74,15 @@ Currently pursuing my **Computer Science degree at BINUS University**.
 
 <p align="left">
   <a href="https://www.optimizely.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/optimizely/3BE081" height="45" alt="Optimizely" />
+    <img src="https://www.optimizely.com/favicon/apple-touch-icon.png" height="42" alt="Optimizely" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.kentico.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/kentico" height="45" alt="Kentico" />
+    <img src="https://cdn.simpleicons.org/kentico" height="42" alt="Kentico" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://umbraco.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/umbraco" height="45" alt="Umbraco" />
+    <img src="https://cdn.simpleicons.org/umbraco" height="42" alt="Umbraco" />
   </a>
 </p>
 
