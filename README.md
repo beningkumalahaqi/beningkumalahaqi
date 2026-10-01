@@ -73,14 +73,14 @@ Currently pursuing my **Computer Science degree at BINUS University**.
 ### CMS & Platforms
 
 <p align="left">
-  <a href="https://www.optimizely.com/">
-    <img src="https://img.shields.io/badge/Optimizely-003B5C?style=for-the-badge&logo=optimizely&logoColor=white" height="35" alt="Optimizely" />
+  <a href="https://www.optimizely.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/optimizely/3BE081" height="45" alt="Optimizely" />
   </a>
-  <a href="https://www.kentico.com/">
-    <img src="https://img.shields.io/badge/Kentico-0B5CAD?style=for-the-badge&logoColor=white" height="35" alt="Kentico" />
+  <a href="https://www.kentico.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/kentico" height="45" alt="Kentico" />
   </a>
-  <a href="https://umbraco.com/">
-    <img src="https://img.shields.io/badge/Umbraco-3544B1?style=for-the-badge&logo=umbraco&logoColor=white" height="35" alt="Umbraco" />
+  <a href="https://umbraco.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/umbraco" height="45" alt="Umbraco" />
   </a>
 </p>
 
