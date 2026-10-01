@@ -1,18 +1,16 @@
-Hi, I’m Bening Haqi 👋
+# Hi, I'm Bening Kumala Haqi 👋
 
-C# .NET Back End Developer | Full Stack Developer (JS/TS Node.js Ecosystem) | Optimizely CMS Developer
+### C# .NET Back End Developer | Full Stack Developer (JS/TS Node.js Ecosystem) | Optimizely CMS Developer
 
-I’m a software developer with 3+ years of professional experience building and maintaining web applications, backend services, and CMS-driven platforms.
+I'm a software developer with **3+ years of professional experience** building and maintaining web applications, backend services, and CMS-driven platforms.
 
-My primary expertise is C# / .NET backend development, with professional experience working with Optimizely, Kentico, and Umbraco. I also work across the JavaScript/TypeScript ecosystem, including Next.js, React, Node.js, and PostgreSQL.
+My primary expertise is **C# / .NET backend development**, with professional experience working with **Optimizely, Kentico, and Umbraco**. I also work across the **JavaScript/TypeScript ecosystem**, including Next.js, React, Node.js, and PostgreSQL.
 
-Currently pursuing my Computer Science degree at BINUS University.
+Currently pursuing my **Computer Science degree at BINUS University**.
 
-⸻
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
-
-Backend
+### Backend
 
 <p align="left">
   <a href="https://dotnet.microsoft.com/">
@@ -29,7 +27,7 @@ Backend
   </a>
 </p>
 
-Frontend
+### Frontend
 
 <p align="left">
   <a href="https://nextjs.org/">
@@ -49,7 +47,7 @@ Frontend
   </a>
 </p>
 
-Database, Cloud & DevOps
+### Database, Cloud & DevOps
 
 <p align="left">
   <a href="https://www.postgresql.org/">
@@ -72,7 +70,7 @@ Database, Cloud & DevOps
   </a>
 </p>
 
-CMS & Platforms
+### CMS & Platforms
 
 <p align="left">
   <a href="https://www.optimizely.com/">
@@ -86,9 +84,7 @@ CMS & Platforms
   </a>
 </p>
 
-⸻
-
-🚀 What I Like Building
+## 🚀 What I Like Building
 
 * 🔧 Backend services & REST APIs
 * 🌐 Full-stack web applications
@@ -98,30 +94,14 @@ CMS & Platforms
 * 🔌 APIs & third-party integrations
 * 🛠️ Developer tools & open-source projects
 
-⸻
+## 📚 Currently
 
-📚 Currently
-
-* 🎓 Studying Computer Science at BINUS University
-* 💻 Building with .NET, Next.js, TypeScript & Node.js
+* 🎓 Studying Computer Science at **BINUS University**
+* 💻 Building with **.NET, Next.js, TypeScript & Node.js**
 * 🌱 Exploring software architecture, cloud infrastructure, and scalable systems
 * 🤝 Open to interesting software development opportunities and collaborations
 
-⸻
-
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beningkumalahaqi&show_icons=true&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beningkumalahaqi&layout=compact&hide_border=true" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beningkumalahaqi&hide_border=true" alt="GitHub Streak" />
-</p>
-
-⸻
-
-📫 Let’s Connect
+## 📫 Let's Connect
 
 <p align="left">
   <a href="mailto:bkhaqi@gmail.com">
@@ -134,8 +114,6 @@ CMS & Platforms
     <img src="https://img.shields.io/badge/GitHub-beningkumalahaqi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-⸻
 
 <p align="center">
   <i>Building software, learning continuously, and turning ideas into working products.</i>
